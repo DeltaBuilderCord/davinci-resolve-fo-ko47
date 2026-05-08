@@ -1,4 +1,4 @@
-
+top DaVinci Resolve for macOS Plugin | scene-transitions + normalization offers the most advanced DaVinci Resolve for macOS plugin, with scene-transitions and normalization. Ideal
 
 
 
